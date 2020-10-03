@@ -1,4 +1,4 @@
 # Hello-World
-### this is first repo
+### This is first repo
 `lets get started`
-hurray
+hurray!
